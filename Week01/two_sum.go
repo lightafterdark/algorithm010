@@ -2,6 +2,21 @@ package main
 
 import "fmt"
 
+
+func twoSum1(nums []int, target int) []int {
+    res := make([]int,0)
+    for i,n := range nums {
+        for ii,nn := range nums {
+            if target == n + nn && i != ii {
+                res = append(res,i)
+                res = append(res,ii)
+                return res
+            }
+        }
+    }
+    return res
+}
+
 func twoSum(nums []int, target int) []int {
 	res := make([]int,0)
 	temp := make(map[int]int)
@@ -17,7 +32,7 @@ func twoSum(nums []int, target int) []int {
 
 func main()  {
 	a := []int{2,7,11,15}
-	sum := twoSum(a,9)
+	sum := twoSum1(a,9)
 	fmt.Println(sum)
 
 }
