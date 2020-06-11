@@ -1,7 +1,8 @@
 package main
+//1.两数之和
 
 import "fmt"
-
+//1.两数之和
 
 func twoSum1(nums []int, target int) []int {
     res := make([]int,0)
