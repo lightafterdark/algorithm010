@@ -33,8 +33,8 @@ func twoSum(nums []int, target int) []int {
 
 func main()  {
 	a := []int{2,7,11,15}
-	sum := twoSum1(a,9)
-	fmt.Println(sum)
+	fmt.Println(twoSum(a,9))
+	fmt.Println(twoSum1(a,9))
 
 }
 

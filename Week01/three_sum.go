@@ -5,29 +5,9 @@ import (
 	"sort"
 )
 
-func threeSum3(nums []int) [][]int {
-	res := make([][]int,0)
-	contain := make(map[string]int)
-	for i := 0;i < len(nums) - 2;i++  {
-		for j := i + 1;j < len(nums) - 1 ;j++  {
-			for k := j + 1; k < len(nums) ; k ++  {
-				if nums[i]+nums[j]+nums[k] == 0 {
-					temp := make([]int,0)
-					temp = append(temp,nums[i],nums[j],nums[k])
-					sort.Ints(temp)
-					s := string(temp[0])+string(temp[1])+string(temp[2])
-					fmt.Println(s)
-					contain[s]=0
-					if _,ok := contain[s];!ok{
-						res = append(res,temp)
-					}
-				}
-			}
-		}
-	}
-	return res
-}
 
+
+//TODO 去重
 func threeSum1(nums []int) [][]int {
 	res := make([][]int,0)
 	for i := 0;i < len(nums) - 2;i++  {
@@ -36,7 +16,6 @@ func threeSum1(nums []int) [][]int {
 				if nums[i]+nums[j]+nums[k] == 0 {
 					temp := make([]int,0)
 					temp = append(temp,nums[i],nums[j],nums[k])
-					sort.Ints(temp)
 					res = append(res,temp)
 				}
 			}
@@ -86,50 +65,10 @@ func threeSum(nums []int) [][]int {
 	return res
 }
 
-func threeSum2(nums []int) [][]int {
-	res := make([][]int,0)
-	if len(nums) < 3 {
-		return res
-	}
-	sort.Ints(nums)
-	for k := 0;k < len(nums) - 2;k++  {
-		if nums[k]>0 {
-			break
-		}
-		if k > 0 && nums[k] == nums[k-1] {
-			continue
-		}
-		i := k + 1
-		j := len(nums) - 1
-		for i < j {
-			sum := nums[i] + nums[j] + nums[k]
-			if sum < 0 {
-				i++
-				continue
-			}else if sum > 0 {
-				j--
-				continue
-			}else{
-				res = append(res,[]int{nums[i],nums[j],nums[k]})
-				for {
-					if i < j && nums[j] == nums[j-1] {
-						j--
-					}else{
-						break
-					}
-				}
-				i ++
-				j --
-			}
-		}
-
-	}
-	return res
-}
 
 func main()  {
 	a := []int{-1,0,1,2,-1,-4}
-	sum := threeSum1(a)
-	fmt.Println(sum)
+	fmt.Println(threeSum(a))
+	fmt.Println(threeSum1(a))
 
 }

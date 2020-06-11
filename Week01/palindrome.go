@@ -1,7 +1,9 @@
 package main
-
+//9.回文数
 import "fmt"
-
+/**
+把这个数字反转，不过反转一半就可以了
+ */
 func isPalindrome(x int) bool {
 	if x < 0 || (x % 10 == 0 && x != 0){
 		return false
