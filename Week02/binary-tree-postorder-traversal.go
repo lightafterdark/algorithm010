@@ -2,28 +2,26 @@ package main
 
 import "fmt"
 
-//94. 二叉树的中序遍历
+//145. 二叉树的后序遍历
+
 /**
- * Definition for a binary tree node.
- * type TreeNode struct {
- *     Val int
- *     Left *TreeNode
- *     Right *TreeNode
- * }
+递归
  */
+func postorderTraversal1(root *TreeNode) []int {
+	if root == nil {
+		return []int{}
+	}
+	rest := append(postorderTraversal(root.Left),postorderTraversal(root.Right)...)
+	rest = append(rest,root.Val)
+	return rest
+}
+
+
 type TreeNode struct {
 	Val int
 	Left *TreeNode
 	Right *TreeNode
 }
-//func inorderTraversal(root *TreeNode) []int {
-//	if root == nil {
-//		return []int{}
-//	}
-//	rest := append(inorderTraversal(root.Left),root.Val)
-//	rest = append(rest,inorderTraversal(root.Right)...)
-//	return rest
-//}
 
 type Stack []*TreeNode
 
@@ -39,9 +37,9 @@ func (s *Stack) Pop() *TreeNode {
 
 /**
 迭代
-左根右
+左右根
 */
-func inorderTraversal(root *TreeNode) []int {
+func postorderTraversal(root *TreeNode) []int {
 	if root == nil {
 		return []int{}
 	}
@@ -50,11 +48,11 @@ func inorderTraversal(root *TreeNode) []int {
 	for len(stack) > 0 {
 		cur := stack.Pop()
 		if cur != nil {
+			stack.Push(cur)
+			stack.Push(nil)
 			if cur.Right != nil {
 				stack.Push(cur.Right)
 			}
-			stack.Push(cur)
-			stack.Push(nil)
 			if cur.Left != nil {
 				stack.Push(cur.Left)
 			}
@@ -64,6 +62,8 @@ func inorderTraversal(root *TreeNode) []int {
 	}
 	return rest
 }
+
+
 func main()  {
 	root := &TreeNode{
 		Val:1,
@@ -78,5 +78,5 @@ func main()  {
 			Right:nil,
 		},
 	}
-	fmt.Println(inorderTraversal(root))
+	fmt.Println(postorderTraversal(root))
 }
