@@ -1,5 +1,5 @@
 package main
-
+//50. Pow(x, n)
 import "fmt"
 
 func myPow(x float64, n int) float64 {

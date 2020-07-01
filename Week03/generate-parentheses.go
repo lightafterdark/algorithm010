@@ -1,5 +1,5 @@
 package main
-
+////22. 括号生成
 import "fmt"
 
 func generateParenthesis(n int) []string {

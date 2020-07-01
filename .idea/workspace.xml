@@ -2,14 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec995e6a-06df-41ef-8fe2-0784cab40e54" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/algorithm010.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week01/todo/go/rotate-array.go" beforeDir="false" afterPath="$PROJECT_DIR$/Week01/todo/go/rotate-array.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week02/chou-shu-lcof.go" beforeDir="false" afterPath="$PROJECT_DIR$/Week02/chou-shu-lcof.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week02/longest-common-prefix.go" beforeDir="false" afterPath="$PROJECT_DIR$/Week02/longest-common-prefix.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week02/zui-xiao-de-kge-shu-lcof.go" beforeDir="false" afterPath="$PROJECT_DIR$/Week02/zui-xiao-de-kge-shu-lcof.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week04/binary-tree-level-order-traversal.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week04/find-largest-value-in-each-tree-row.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week04/history/generate-parentheses.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week04/history/longest-common-prefix.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week04/history/palindrome-number.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week04/history/permutations.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week04/history/remove-duplicates-from-sorted-array.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week04/history/two-sum.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week04/history/valid-parentheses.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week04/merge-two-sorted-lists.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week04/remove-duplicate-node-lcci.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week04/test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week04/todo/minimum-genetic-mutation.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week04/todo/number-of-islands.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week04/valid-parentheses.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week01/todo/go/merge-two-sorted-lists.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week02/chou-shu-lcof.go" beforeDir="false" afterPath="$PROJECT_DIR$/Week02/todo/go/chou-shu-lcof.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week02/top-k-frequent-elements.go" beforeDir="false" afterPath="$PROJECT_DIR$/Week02/todo/go/top-k-frequent-elements.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week02/zui-xiao-de-kge-shu-lcof.go" beforeDir="false" afterPath="$PROJECT_DIR$/Week02/todo/go/zui-xiao-de-kge-shu-lcof.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week03/construct-binary-tree-from-preorder-and-inorder-traversal.go" beforeDir="false" afterPath="$PROJECT_DIR$/Week03/construct-binary-tree-from-preorder-and-inorder-traversal.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week03/generate-parentheses.go" beforeDir="false" afterPath="$PROJECT_DIR$/Week03/generate-parentheses.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week03/powx-n.go" beforeDir="false" afterPath="$PROJECT_DIR$/Week03/powx-n.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week03/todo/maximum-depth-of-binary-tree.go" beforeDir="false" afterPath="$PROJECT_DIR$/Week04/maximum-depth-of-binary-tree.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week03/todo/permutations-ii.go" beforeDir="false" afterPath="$PROJECT_DIR$/Week04/permutations-ii.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,68 +35,63 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week02/serialize-and-deserialize-binary-tree.go">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week02/top-k-frequent-elements.go">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week01/todo/go/design-circular-deque.go">
+        <entry file="file://$PROJECT_DIR$/Week04/merge-two-sorted-lists.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="26">
-              <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+            <state relative-caret-position="104">
+              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+              <folding>
+                <element signature="e#14#40#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week01/todo/go/reverse-nodes-in-k-group.go">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week01/todo/go/reverse_linked_list.go">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week02/binary-tree-postorder-traversal.go">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week02/binary-tree-inorder-traversal.go">
+        <entry file="file://$PROJECT_DIR$/Week04/history/permutations.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-234" />
+            <state relative-caret-position="156">
+              <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week04/permutations-ii.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week04/maximum-depth-of-binary-tree.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-26">
+              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+            </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Week01/todo/go/sliding-window-maximum.go">
+        <entry file="file://$PROJECT_DIR$/Week04/test.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+            <state relative-caret-position="416">
+              <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week02/two_sum.go">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week02/valid-anagram.go">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
   </component>
   <component name="GOROOT" path="C:\Go" />
   <component name="Git.Settings">
@@ -89,14 +101,59 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Week01/todo/go/rotate-array.go" />
-        <option value="$PROJECT_DIR$/Week02/chou-shu-lcof.go" />
         <option value="$PROJECT_DIR$/Week02/longest-common-prefix.go" />
         <option value="$PROJECT_DIR$/Week02/zui-xiao-de-kge-shu-lcof.go" />
+        <option value="$PROJECT_DIR$/Week03/3sum-closest.go" />
+        <option value="$PROJECT_DIR$/Week03/todo/invert-binary-tree.go" />
+        <option value="$PROJECT_DIR$/Week03/todo/validate-binary-search-tree.go" />
+        <option value="$PROJECT_DIR$/Week03/todo/maximum-depth-of-binary-tree.go" />
+        <option value="$PROJECT_DIR$/Week03/todo/minimum-depth-of-binary-tree.go" />
+        <option value="$PROJECT_DIR$/Week03/todo/serialize-and-deserialize-binary-tree.go" />
+        <option value="$PROJECT_DIR$/Week03/todo/powx-n.go" />
+        <option value="$PROJECT_DIR$/Week03/todo/subsets.go" />
+        <option value="$PROJECT_DIR$/Week03/todo/majority-element.go" />
+        <option value="$PROJECT_DIR$/Week03/todo/n-queens.go" />
+        <option value="$PROJECT_DIR$/Week03/todo/lowest-common-ancestor-of-a-binary-tree.go" />
+        <option value="$PROJECT_DIR$/Week03/todo/permutations.go" />
+        <option value="$PROJECT_DIR$/Week03/todo/permutations-ii.go" />
+        <option value="$PROJECT_DIR$/Week03/todo/climbing-stairs.go" />
+        <option value="$PROJECT_DIR$/Week03/todo/combinations.go" />
+        <option value="$PROJECT_DIR$/Week03/todo/letter-combinations-of-a-phone-number.go" />
+        <option value="$PROJECT_DIR$/Week04/generate-parentheses.go" />
+        <option value="$PROJECT_DIR$/Week04/number-of-islands.go" />
+        <option value="$PROJECT_DIR$/Week04/binary-tree-level-order-traversal.go" />
+        <option value="$PROJECT_DIR$/Week04/find-largest-value-in-each-tree-row.go" />
+        <option value="$PROJECT_DIR$/Week04/todo/number-of-islands.go" />
+        <option value="$PROJECT_DIR$/Week04/todo/minimum-genetic-mutation.go" />
+        <option value="$PROJECT_DIR$/Week04/history/two-sum.go" />
+        <option value="$PROJECT_DIR$/Week04/remove-duplicate-node-lcci.go" />
+        <option value="$PROJECT_DIR$/Week04/add-two-numbers.go" />
+        <option value="$PROJECT_DIR$/Week04/history/palindrome-number.go" />
+        <option value="$PROJECT_DIR$/Week04/history/longest-common-prefix.go" />
+        <option value="$PROJECT_DIR$/Week04/history/3sum.go" />
+        <option value="$PROJECT_DIR$/Week04/history/generate-parentheses.go" />
+        <option value="$PROJECT_DIR$/Week04/remove-duplicates-from-sorted-array.go" />
+        <option value="$PROJECT_DIR$/Week02/chou-shu-lcof.go" />
+        <option value="$PROJECT_DIR$/Week02/todo/go/chou-shu-lcof.go" />
+        <option value="$PROJECT_DIR$/Week02/todo/go/top-k-frequent-elements.go" />
+        <option value="$PROJECT_DIR$/Week02/todo/go/zui-xiao-de-kge-shu-lcof.go" />
+        <option value="$PROJECT_DIR$/Week03/powx-n.go" />
+        <option value="$PROJECT_DIR$/Week03/generate-parentheses.go" />
+        <option value="$PROJECT_DIR$/Week03/construct-binary-tree-from-preorder-and-inorder-traversal.go" />
+        <option value="$PROJECT_DIR$/Week04/history/valid-parentheses.go" />
+        <option value="$PROJECT_DIR$/Week01/todo/go/merge-two-sorted-lists.go" />
+        <option value="$PROJECT_DIR$/Week04/merge-two-sorted-lists.go" />
+        <option value="$PROJECT_DIR$/Week04/permutations.go" />
+        <option value="$PROJECT_DIR$/Week04/history/permutations.go" />
+        <option value="$PROJECT_DIR$/Week04/permutations-ii.go" />
+        <option value="$PROJECT_DIR$/Week04/maximum-depth-of-binary-tree.go" />
+        <option value="$PROJECT_DIR$/Week04/test.go" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="4" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -105,7 +162,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -116,42 +172,38 @@
             <path>
               <item name="algorithm010" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm010" type="462c0819:PsiDirectoryNode" />
-              <item name="Week01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm010" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm010" type="462c0819:PsiDirectoryNode" />
-              <item name="Week01" type="462c0819:PsiDirectoryNode" />
-              <item name="todo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm010" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm010" type="462c0819:PsiDirectoryNode" />
-              <item name="Week01" type="462c0819:PsiDirectoryNode" />
-              <item name="todo" type="462c0819:PsiDirectoryNode" />
-              <item name="go" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm010" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm010" type="462c0819:PsiDirectoryNode" />
-              <item name="Week02" type="462c0819:PsiDirectoryNode" />
+              <item name="Week04" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Week04" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\sf\algorithm010\Week04" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\sf\algorithm010\Week04" />
+      <recent name="E:\sf\algorithm010\Week04\history" />
+      <recent name="E:\sf\algorithm010\Week02\todo\go" />
+      <recent name="E:\sf\algorithm010\Week04\todo" />
+      <recent name="E:\sf\algorithm010\Week03" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -165,176 +217,446 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Go Build.go build test.go">
+    <configuration name="go build maximum-depth-of-binary-tree.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algorithm010" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Week04/maximum-depth-of-binary-tree.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build merge-two-sorted-lists.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algorithm010" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Week04/merge-two-sorted-lists.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build permutations-ii.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algorithm010" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Week04/permutations-ii.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build permutations.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algorithm010" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Week04/history/permutations.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build test.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algorithm010" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Week04/test.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build test.go" />
+        <item itemvalue="Go Build.go build maximum-depth-of-binary-tree.go" />
+        <item itemvalue="Go Build.go build permutations-ii.go" />
+        <item itemvalue="Go Build.go build permutations.go" />
+        <item itemvalue="Go Build.go build merge-two-sorted-lists.go" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18230277" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25501114" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.47772828" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.28619152" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Week04/remove-duplicate-node-lcci.go</url>
+          <line>31</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Week04/merge-two-sorted-lists.go</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Week04/permutations-ii.go</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Week01/climbing_stairs.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week01/container_with_most_water.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week01/daily-temperatures.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week01/largest-rectangle-in-histogram.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week01/merge-sorted-array.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week01/move_zero.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week01/palindrome.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week01/plus-one.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week01/remove-duplicates-from-sorted-array.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week01/three_sum.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week01/trapping-rain-water.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week01/two_sum.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week01/valid-parentheses.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Week01/todo/go/linked_list_cycle.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week01/todo/go/linked_list_cycle_ii.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week01/todo/go/lru.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week01/todo/go/min-stack.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week01/todo/go/swap_nodes_in_pairs.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week01/todo/go/rotate-array.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        <state relative-caret-position="26">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week01/todo/go/merge-two-sorted-lists.go">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/Week02/binary-tree-inorder-traversal.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week02/binary-tree-postorder-traversal.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Week02/binary-tree-preorder-traversal.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week02/chou-shu-lcof.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" column="11" lean-forward="true" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="11" />
+        <state relative-caret-position="104">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Week02/group-anagrams.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1326">
-          <caret line="55" column="1" lean-forward="true" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
+        <state relative-caret-position="26">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Week02/longest-common-prefix.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
-          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Week02/n-ary-tree-level-order-traversal.go">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="15" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Week02/n-ary-tree-postorder-traversal.go">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="15" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Week02/n-ary-tree-preorder-traversal.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week02/todo/go/chou-shu-lcof.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week02/todo/go/zui-xiao-de-kge-shu-lcof.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week02/todo/go/top-k-frequent-elements.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week03/powx-n.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week03/permutations.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week03/combinations.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week03/climbing-stairs.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week03/construct-binary-tree-from-preorder-and-inorder-traversal.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week03/generate-parentheses.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week03/letter-combinations-of-a-phone-number.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week03/todo/invert-binary-tree.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week03/todo/lowest-common-ancestor-of-a-binary-tree.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week03/todo/majority-element.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week03/todo/n-queens.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week03/todo/serialize-and-deserialize-binary-tree.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week03/todo/subsets.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week03/todo/validate-binary-search-tree.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week04/add-two-numbers.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-593" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week03/todo/minimum-depth-of-binary-tree.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week04/binary-tree-level-order-traversal.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week04/remove-duplicate-node-lcci.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week04/generate-parentheses.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-26">
+          <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week04/find-largest-value-in-each-tree-row.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week04/todo/minimum-genetic-mutation.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week04/todo/number-of-islands.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week04/valid-parentheses.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week02/valid-anagram.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week02/two_sum.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-229" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week04/history/3sum.go">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week02/zui-xiao-de-kge-shu-lcof.go">
+    <entry file="file://$PROJECT_DIR$/Week02/serialize-and-deserialize-binary-tree.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week04/history/generate-parentheses.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week04/history/longest-common-prefix.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week04/history/palindrome-number.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week04/history/remove-duplicates-from-sorted-array.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week04/history/valid-parentheses.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="26">
           <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week02/valid-anagram.go">
+    <entry file="file://$PROJECT_DIR$/Week04/history/two-sum.go">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week02/two_sum.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week02/serialize-and-deserialize-binary-tree.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week02/top-k-frequent-elements.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week01/todo/go/design-circular-deque.go">
+    <entry file="file://$PROJECT_DIR$/Week04/merge-two-sorted-lists.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        <state relative-caret-position="104">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <element signature="e#14#40#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week01/todo/go/reverse-nodes-in-k-group.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week01/todo/go/reverse_linked_list.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week02/binary-tree-postorder-traversal.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week02/binary-tree-inorder-traversal.go">
+    <entry file="file://C:/Go/src/runtime/proc.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-234" />
+        <state relative-caret-position="364">
+          <caret line="221" selection-start-line="221" selection-end-line="221" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week01/todo/go/sliding-window-maximum.go">
+    <entry file="file://$PROJECT_DIR$/Week04/history/permutations.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        <state relative-caret-position="156">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week04/permutations-ii.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week04/maximum-depth-of-binary-tree.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-26">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week04/test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
         </state>
       </provider>
     </entry>
