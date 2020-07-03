@@ -16,9 +16,9 @@ func maxDepth(root *TreeNode) int {
 		lHeight := maxDepth(root.Left)
 		RHeight := maxDepth(root.Right)
 		if lHeight > RHeight {
-			return lHeight
+			return lHeight+1
 		}else{
-			return RHeight
+			return RHeight+1
 		}
 	}
 }
