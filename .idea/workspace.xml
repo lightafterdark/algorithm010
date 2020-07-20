@@ -2,45 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec995e6a-06df-41ef-8fe2-0784cab40e54" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week05/4sum.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week05/invert-binary-tree.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week05/jump-game-ii.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week05/lowest-common-ancestor-of-a-binary-tree.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week06/minimum-path-sum.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week06/unique-paths-ii.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week06/unique-paths.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week01/todo/php/climbing_stairs.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week01/todo/php/container_with_most_water.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week01/todo/php/daily-temperatures.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week01/todo/php/design-circular-deque.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week01/todo/php/largest-rectangle-in-histogram.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week01/todo/php/linked_list_cycle.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week01/todo/php/linked_list_cycle_ii.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week01/todo/php/lru.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week01/todo/php/merge-sorted-array.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week01/todo/php/merge-two-sorted-lists.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week01/todo/php/min-stack.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week01/todo/php/move_zero.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week01/todo/php/palindrome.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week01/todo/php/plus-one.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week01/todo/php/remove-duplicates-from-sorted-array.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week01/todo/php/reverse-nodes-in-k-group.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week01/todo/php/reverse_linked_list.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week01/todo/php/rotate-array.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week01/todo/php/sliding-window-maximum.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week01/todo/php/swap_nodes_in_pairs.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week01/todo/php/three_sum.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week01/todo/php/trapping-rain-water.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week01/todo/php/two_sum.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week01/todo/php/valid-parentheses.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week03/todo/invert-binary-tree.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week03/todo/lowest-common-ancestor-of-a-binary-tree.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week03/todo/minimum-depth-of-binary-tree.go" beforeDir="false" afterPath="$PROJECT_DIR$/Week05/minimum-depth-of-binary-tree.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week03/todo/serialize-and-deserialize-binary-tree.go" beforeDir="false" afterPath="$PROJECT_DIR$/Week03/todo/serialize-and-deserialize-binary-tree.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week03/todo/subsets.go" beforeDir="false" afterPath="$PROJECT_DIR$/Week03/todo/subsets.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week03/todo/validate-binary-search-tree.go" beforeDir="false" afterPath="$PROJECT_DIR$/Week05/validate-binary-search-tree.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week06/decode-ways.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week06/minimum-path-sum.go" beforeDir="false" afterPath="$PROJECT_DIR$/Week06/minimum-path-sum.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,11 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Week06/minimum-path-sum.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="432">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
             </state>
           </provider>
         </entry>
@@ -68,13 +31,18 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Week06/unique-paths-ii.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="432">
               <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week06/decode-ways.go">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -141,9 +109,9 @@
         <option value="$PROJECT_DIR$/Week05/jump-game-ii.go" />
         <option value="$PROJECT_DIR$/Week05/4sum.go" />
         <option value="$PROJECT_DIR$/Week06/unique-paths.go" />
-        <option value="$PROJECT_DIR$/Week06/minimum-path-sum.go" />
         <option value="$PROJECT_DIR$/Week06/unique-paths-ii.go" />
         <option value="$PROJECT_DIR$/Week06/longest-common-subsequence.go" />
+        <option value="$PROJECT_DIR$/Week06/minimum-path-sum.go" />
       </list>
     </option>
   </component>
@@ -287,11 +255,11 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.47884187" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" visible="true" weight="0.2572383" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.2572383" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.28619152" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.28619152" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -339,13 +307,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Week02/valid-anagram.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Week02/two_sum.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-229" />
@@ -661,13 +622,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week06/minimum-path-sum.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Week06/unique-paths.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -679,6 +633,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
           <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week06/decode-ways.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week06/minimum-path-sum.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
