@@ -2,18 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec995e6a-06df-41ef-8fe2-0784cab40e54" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Week07/balanced-binary-tree.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/binary-tree-level-order-traversal.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/climbing-stairs.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/implement-trie-prefix-tree.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/merge-sorted-array.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/symmetric-tree.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/two-sum-ii-input-array-is-sorted.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/unique-binary-search-trees-ii.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/valid-sudoku.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week08/is-subsequence.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week08/number-of-1-bits.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week08/power-of-two.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week08/reverse-bits.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week08/sort-an-array.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week02/binary-tree-preorder-traversal.go" beforeDir="false" afterPath="$PROJECT_DIR$/Week02/binary-tree-preorder-traversal.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,94 +23,23 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week07/implement-trie-prefix-tree.go">
+        <entry file="file://$PROJECT_DIR$/Week08/reverse-bits.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="26">
-              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+            <state relative-caret-position="376">
+              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Week07/climbing-stairs.go">
+        <entry file="file://$PROJECT_DIR$/Week08/sort-an-array.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="42" column="1" lean-forward="true" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week07/balanced-binary-tree.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+            <state relative-caret-position="272">
+              <caret line="163" column="3" lean-forward="true" selection-start-line="163" selection-start-column="3" selection-end-line="163" selection-end-column="3" />
               <folding>
-                <element signature="e#14#39#0" expanded="true" />
+                <element signature="n#!!block;n#sortArray#0" />
+                <element signature="n#!!block;n#adjustHeap#0" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week02/binary-tree-preorder-traversal.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1352">
-              <caret line="52" column="13" lean-forward="true" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week07/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="806">
-              <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week07/binary-tree-level-order-traversal.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="2" selection-start-line="2" selection-start-column="2" selection-end-line="6" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week07/symmetric-tree.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week07/two-sum-ii-input-array-is-sorted.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="650">
-              <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week07/unique-binary-search-trees-ii.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="10" selection-start-line="10" selection-start-column="2" selection-end-line="14" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week07/valid-sudoku.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -137,12 +60,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Week04/permutations.go" />
-        <option value="$PROJECT_DIR$/Week04/history/permutations.go" />
-        <option value="$PROJECT_DIR$/Week04/permutations-ii.go" />
-        <option value="$PROJECT_DIR$/Week04/test.go" />
-        <option value="$PROJECT_DIR$/Week04/todo/best-time-to-buy-and-sell-stock-ii.go" />
-        <option value="$PROJECT_DIR$/Week04/todo/assign-cookies.go" />
         <option value="$PROJECT_DIR$/Week04/todo/walking-robot-simulation.go" />
         <option value="$PROJECT_DIR$/Week04/todo/jump-game-ii.go" />
         <option value="$PROJECT_DIR$/Week04/todo/search-a-2d-matrix.go" />
@@ -188,10 +105,16 @@
         <option value="$PROJECT_DIR$/Week07/symmetric-tree.go" />
         <option value="$PROJECT_DIR$/Week07/implement-trie-prefix-tree.go" />
         <option value="$PROJECT_DIR$/Week07/climbing-stairs.go" />
+        <option value="$PROJECT_DIR$/Week07/is-subsequence.go" />
+        <option value="$PROJECT_DIR$/Week08/is-subsequence.go" />
+        <option value="$PROJECT_DIR$/Week08/power-of-two.go" />
+        <option value="$PROJECT_DIR$/Week08/number-of-1-bits.go" />
+        <option value="$PROJECT_DIR$/Week08/reverse-bits.go" />
+        <option value="$PROJECT_DIR$/Week08/sort-an-array.go" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -202,6 +125,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -212,13 +136,12 @@
             <path>
               <item name="algorithm010" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm010" type="462c0819:PsiDirectoryNode" />
-              <item name="Week07" type="462c0819:PsiDirectoryNode" />
+              <item name="Week08" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -258,51 +181,54 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build climbing-stairs.go">
-    <configuration name="go build climbing-stairs.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build sort-an-array.go">
+    <configuration name="go build is-subsequence.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algorithm010" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Week07/climbing-stairs.go" />
+      <filePath value="$PROJECT_DIR$/Week08/is-subsequence.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build symmetric-tree.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build number-of-1-bits.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algorithm010" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Week07/symmetric-tree.go" />
+      <filePath value="$PROJECT_DIR$/Week08/number-of-1-bits.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build test.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build power-of-two.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algorithm010" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Week07/test.go" />
+      <filePath value="$PROJECT_DIR$/Week08/power-of-two.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build two-sum-ii-input-array-is-sorted.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build reverse-bits.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algorithm010" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Week07/two-sum-ii-input-array-is-sorted.go" />
+      <filePath value="$PROJECT_DIR$/Week08/reverse-bits.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build sort-an-array.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algorithm010" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Week07/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof.go" />
+      <filePath value="$PROJECT_DIR$/Week08/sort-an-array.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build climbing-stairs.go" />
-        <item itemvalue="Go Build.go build symmetric-tree.go" />
+        <item itemvalue="Go Build.go build sort-an-array.go" />
+        <item itemvalue="Go Build.go build is-subsequence.go" />
+        <item itemvalue="Go Build.go build reverse-bits.go" />
+        <item itemvalue="Go Build.go build number-of-1-bits.go" />
+        <item itemvalue="Go Build.go build power-of-two.go" />
       </list>
     </recent_temporary>
   </component>
@@ -333,15 +259,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21002132" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21215352" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4988864" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31959912" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.47884187" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -349,7 +275,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.28619152" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.33853006" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -362,12 +288,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Week04/find-largest-value-in-each-tree-row.go" />
-    <entry file="file://$PROJECT_DIR$/Week04/find-minimum-in-rotated-sorted-array.go" />
-    <entry file="file://$PROJECT_DIR$/Week04/merge-two-sorted-lists.go" />
-    <entry file="file://$PROJECT_DIR$/Week04/permutations-ii.go" />
-    <entry file="file://$PROJECT_DIR$/Week04/search-in-rotated-sorted-array.go" />
-    <entry file="file://$PROJECT_DIR$/Week04/sqrtx.go" />
     <entry file="file://$PROJECT_DIR$/Week04/valid-parentheses.go" />
     <entry file="file://$PROJECT_DIR$/Week04/valid-perfect-square.go" />
     <entry file="file://$PROJECT_DIR$/Week04/remove-duplicate-node-lcci.go" />
@@ -450,6 +370,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Week07/implement-trie-prefix-tree.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week07/balanced-binary-tree.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding>
+            <element signature="e#14#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Week02/binary-tree-preorder-traversal.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1352">
@@ -468,6 +405,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
           <caret line="2" selection-start-line="2" selection-start-column="2" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week07/symmetric-tree.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -492,34 +436,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week07/symmetric-tree.go">
+    <entry file="file://$PROJECT_DIR$/Week07/is-subsequence.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week07/balanced-binary-tree.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-          <folding>
-            <element signature="e#14#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week07/implement-trie-prefix-tree.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Week07/climbing-stairs.go">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="35" column="14" lean-forward="true" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week08/number-of-1-bits.go">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
-          <caret line="42" column="1" lean-forward="true" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week08/power-of-two.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" selection-start-line="6" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week08/is-subsequence.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week08/reverse-bits.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week08/sort-an-array.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="163" column="3" lean-forward="true" selection-start-line="163" selection-start-column="3" selection-end-line="163" selection-end-column="3" />
+          <folding>
+            <element signature="n#!!block;n#sortArray#0" />
+            <element signature="n#!!block;n#adjustHeap#0" />
+          </folding>
         </state>
       </provider>
     </entry>
