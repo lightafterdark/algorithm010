@@ -12,18 +12,18 @@ func max(x,y int)  int{
 		return y
 	}
 }
-func maxSlidingWindow(nums []int, k int) []int {
-	res := []int{}
-	n := len(nums)
-	if n*k == 0 {
-		return res
-	}
-
-	for i:=0;i<n-k+1 ;  i++{
-		max := max()
-	}
-	return res
-}
+//func maxSlidingWindow(nums []int, k int) []int {
+//	res := []int{}
+//	n := len(nums)
+//	if n*k == 0 {
+//		return res
+//	}
+//
+//	for i:=0;i<n-k+1 ;  i++{
+//		max := max()
+//	}
+//	return res
+//}
 
 
 //双向队列
